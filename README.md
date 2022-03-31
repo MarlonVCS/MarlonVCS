@@ -1,4 +1,4 @@
-<h1 align = "justify"> Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Me chamo Marlon Vinícius! </h1>
+## Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Me chamo Marlon Vinícius!
 
 <div align="center">
   <a href="https://github.com/MarlonVCS">
